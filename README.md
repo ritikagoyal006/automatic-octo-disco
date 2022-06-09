@@ -1,2 +1,2 @@
-# automatic-octo-disco
+# automatic-machine
 Computer Science Student
